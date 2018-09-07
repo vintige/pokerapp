@@ -1,4 +1,4 @@
-# Pokerapp (Open-Soure Poker App)
+# Pokerapp (Open-Source Poker App)
  
 Creating an Open source poker application that will be powered by crypto. 
 
